@@ -1,3 +1,5 @@
+![IMAGEM](https://imagens.tiespecialistas.com.br/2015/02/git.jpg)
+
 TITULO
 ======
 
@@ -19,7 +21,7 @@ SUBTITULO
 2. Lista Num 2
 
 
-* [] Não marcado
+* [ ] Não marcado
 * [X] Marcado
 
 Tabela
