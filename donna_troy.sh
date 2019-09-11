@@ -8,6 +8,8 @@ do
 	clear;
 done
 
+figlet LINUXLOGO
+
 
 
 
